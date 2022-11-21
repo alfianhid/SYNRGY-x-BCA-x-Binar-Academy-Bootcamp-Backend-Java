@@ -1,0 +1,11 @@
+
+u
+java:S1192"SDefine a constant instead of duplicating this literal "Level Hero adalah " 4 times.(ÕÃ¯³øÿÿÿÿ8ÏƒßÂ¶0
+t
+java:S1104"WMake levelPublic a static final constant or non-public and provide accessors if needed.(ê‚ì÷8‡¼İÂ¶0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÕÃ¯³øÿÿÿÿ8¾ÏÂ¶0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(çÉğ8ŸçÙÂ¶0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(€»Õ°8ßƒßÂ¶0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ç¢¯™üÿÿÿÿ8¿ÃéÂ¶0
+P
+java:S1144"3Remove this unused private "displayPrivate" method.(¢€„õ8ÿšàÂ¶0

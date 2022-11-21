@@ -1,0 +1,11 @@
+com\bcaxbinar\app\service\filehandling\FileHandler.class
+com\bcaxbinar\app\view\MainMenu.class
+com\bcaxbinar\app\service\filehandling\HandleCsvFile.class
+com\bcaxbinar\app\view\ErrorPage.class
+com\bcaxbinar\app\view\Menu.class
+com\bcaxbinar\app\service\calculation\CalculateMedian.class
+com\bcaxbinar\app\service\calculation\CalculateMean.class
+com\bcaxbinar\app\Main.class
+com\bcaxbinar\app\service\calculation\CalculateMode.class
+com\bcaxbinar\app\service\calculation\CalculateFreq.class
+com\bcaxbinar\app\service\filehandling\HandleTxtFile.class
